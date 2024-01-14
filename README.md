@@ -5,9 +5,9 @@
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=leftr><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -38,11 +38,11 @@
   <br>
 </div>
 
-- ⚡ This is my coding blog !!
+- ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
-- 🔭 I’m currently working on LineWorld Co., Ltd
-  as a national labor scholarship student from 12.26.2023.
+- 🔭 I’m currently working on LineWorld Co., Ltd <br>
+  as a national labor scholarship student from 12.26.2023. <br>
   https://lineworld.co.kr/
 
 <!--
