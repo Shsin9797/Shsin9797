@@ -57,9 +57,7 @@
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
-- 🔭 I’m currently working on LineWorld Co., Ltd <br>
-  as a national labor scholarship student from 12.26.2023. <br>
-  https://lineworld.co.kr/
+
 
 <!--
 **Shsin9797/Shsin9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
