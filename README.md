@@ -19,6 +19,7 @@
 
   
 </div>
+
 ### ✔️Back-end
 
 <div align=left> 
@@ -31,13 +32,8 @@
   <img src="https://img.shields.io/badge/java-007396?style=social&logo=OpenJDK&logoColor=red"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=Spring&logoColor=green">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=social&logo=Spring Boot&logoColor=green">
-  
+
   <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=social&logo=mysql&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/Postgresql-4479A1?style=social&logo=postgresql&logoColor=blue"> 
-  
-  <br> 
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=social&logo=linux&logoColor=yellow"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=black"> 
