@@ -10,8 +10,6 @@
 ### ✔️Database 
 <div align=left> 
   
-  <br>
-  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=social&logo=mysql&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Postgresql-4479A1?style=social&logo=postgresql&logoColor=blue"> 
   
