@@ -4,10 +4,11 @@
 
 ### 👋 Hi there 👋
 
-- 🌱 I’m mainly learning python and java
+- 🌱 I’m mainly learning python and java.
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
+- 🌬️ From this winter, I work for a service based on Kubernetis.
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
   <img src="https://img.shields.io/badge/Google_Cloud-4479A1?style=social&logo=google&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
-  
+
   <br> 
 
   
