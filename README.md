@@ -8,7 +8,7 @@
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
-- 🌬️ From this winter, I work for a service based on Kubernetis.
+- 🌬️ I work for a service based on Kubernetis.
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
