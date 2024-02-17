@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎶🎵%20🐤🐤🐤🐤🐔%20%20-nl-&animation=twinkling&fontSize=50&desc=🐥🐣Can%20you%20be%20my%20friend?😘💔&descAlign=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎵%20🐤🐤🐤🐤🐔%20%20-nl-&animation=twinkling&fontSize=50&desc=🐥🐣Can%20you%20be%20my%20friend?😘💔&descAlign=50&fontAlign=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShsin9797%2Fhit-counter&count_bg=%230F467D&title_bg=%237089D4&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning python and java
+- 🌱 I’m mainly learning python and java
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
@@ -15,6 +15,20 @@
 
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
+😎I have experiences of 
+
+### ✔️cloud
+<div align=left> 
+  
+  <img src="https://img.shields.io/badge/AWS_Cloud-4479A1?style=social&logo=amazon&logoColor=orange"> 
+  <img src="https://img.shields.io/badge/Google_Cloud-4479A1?style=social&logo=google&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
+  
+  <br> 
+
+  
+</div>
+
 
 ### ✔️Database 
 <div align=left> 
