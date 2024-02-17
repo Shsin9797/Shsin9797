@@ -10,7 +10,7 @@
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
 
-<div align=leftr><h2>📚 Stacks </h2></div>
+<div align=leftr><h2>🍼Stacks🍼 </h2></div>
 
 ### ✔️Database 
 <div align=left> 
@@ -70,7 +70,7 @@
 
 <br>
 
-<div align=leftr><h2> 🐤 Contributions </h2></div>
+<div align=leftr><h2> 🐣 Contributions 🐣 </h2></div>
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
