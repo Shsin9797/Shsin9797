@@ -15,7 +15,7 @@
 
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
-😎I have experiences of 
+😎 I have experiences of ...
 
 ### ✔️cloud
 <div align=left> 
