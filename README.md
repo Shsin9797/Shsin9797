@@ -20,7 +20,7 @@
 ### ✔️cloud
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/AWS_Cloud-4479A1?style=social&logo=amazon&logoColor=orange"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
   <img src="https://img.shields.io/badge/Google_Cloud-4479A1?style=social&logo=google&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
   
@@ -57,7 +57,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=social&logo=linux&logoColor=yellow"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=black"> 
+
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=social&logo=github&logoColor=black">
