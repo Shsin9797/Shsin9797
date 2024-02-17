@@ -67,6 +67,11 @@
 
 <br>
 
+## 📌 Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShsin9797%2Fhit-counter&count_bg=%230F467D&title_bg=%237089D4&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
@@ -82,3 +87,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
