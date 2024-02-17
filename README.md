@@ -17,7 +17,7 @@
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
 😎 I have experiences of ...
 
-### ✔️cloud
+### ✔️Cloud
 <div align=left> 
   
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
