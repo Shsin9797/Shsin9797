@@ -9,6 +9,11 @@
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
+- ⚡ This is my coding blog !!<br>
+  https://popo-coding.tistory.com/
+
+<br>
+
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
 
@@ -65,10 +70,6 @@
 </div>
 <br>
 
-- ⚡ This is my coding blog !!<br>
-  https://popo-coding.tistory.com/
-
-<br>
 
 <div align=leftr><h2> 🐣 Contributions 🐣 </h2></div>
 
