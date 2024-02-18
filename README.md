@@ -16,8 +16,8 @@
 
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
-😎 I have experiences of ... 
-<br>(but not much experienced on it yet😅)
+😎 I've tried  ... 
+<br>(not much experienced on it yet😅)
 
 ### ✔️Cloud
 <div align=left> 
