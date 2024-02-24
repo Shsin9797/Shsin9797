@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShsin9797%2Fhit-counter&count_bg=%230F467D&title_bg=%237089D4&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+
 ### 👋 Hi there 👋
 
 - 🌱 I’m mainly learning python and java.
@@ -88,7 +90,7 @@
 
 <div align=leftr><h2> 🐣 Contributions 🐣 </h2></div>
 
-
+[![GitHub-Profile-3D-Contrib](https://github.com/Shsin9797/Shsin9797/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Shsin9797/Shsin9797/actions/workflows/profile-3d.yml)
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 
