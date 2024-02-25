@@ -24,13 +24,13 @@
 ### ✔️Cloud
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
   <img src="https://img.shields.io/badge/Google_Cloud-4479A1?style=social&logo=google&logoColor=blue"> 
   <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
 
   <br> 
-  <img src="https://img.shields.io/badge/docker-4479A1?style=social&logo=docker&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/kubernetes-4479A1?style=social&logo=kubernetes&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/Docker-4479A1?style=social&logo=Docker&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/Kubernetes-4479A1?style=social&logo=Kubernetes&logoColor=blue"> 
 
   
 </div>
@@ -39,8 +39,8 @@
 ### ✔️Database 
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=social&logo=mysql&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/Postgresql-4479A1?style=social&logo=postgresql&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=social&logo=postgresql&logoColor=blue"> 
   
   <br> 
 
