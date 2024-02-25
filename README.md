@@ -52,37 +52,37 @@
 
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/python-3776AB?style=social&logo=python&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/flask-000000?style=social&logo=flask&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=social&logo=flask&logoColor=black">
  
   <br>
 
-  <img src="https://img.shields.io/badge/java-007396?style=social&logo=OpenJDK&logoColor=red"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=social&logo=OpenJDK&logoColor=red"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=Spring&logoColor=green">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=social&logo=Spring Boot&logoColor=green">
 
   <br>
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=social&logo=linux&logoColor=yellow"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=yellow"> 
 
   <br>
   
-  <img src="https://img.shields.io/badge/github-181717?style=social&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/git-F05032?style=social&logo=git&logoColor=red">
+  <img src="https://img.shields.io/badge/Github-181717?style=social&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=red">
   
 </div>
 
 ### ✔️Frond-end
 <div align = left>
   <img src="https://img.shields.io/badge/React-61DAFB?style=social&logo=React&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=social&logo=html5&logoColor=E34F26"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=social&logo=css3&logoColor=1572B6"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=social&logo=javascript&logoColor=F7DF1E"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=social&logo=jquery&logoColor=0769AD">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=E34F26"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=social&logo=css3&logoColor=1572B6"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=F7DF1E"> 
+  <img src="https://img.shields.io/badge/J-Query-0769AD?style=social&logo=jquery&logoColor=0769AD">
   <br>  
 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=social&logo=flutter&logoColor=02569B">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=social&logo=bootstrap&logoColor=7952B3">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=social&logo=bootstrap&logoColor=7952B3">
 
   <br>
 </div>
