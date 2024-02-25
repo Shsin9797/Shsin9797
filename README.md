@@ -10,7 +10,7 @@
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
-- 🌬️ I work for a service based on Kubernetis.
+- 🌬️ I work for a service based on kubernetes.
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
 
   <br> 
+  <img src="https://img.shields.io/badge/docker-4479A1?style=social&logo=docker&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/kubernetes-4479A1?style=social&logo=kubernetes&logoColor=blue"> 
 
   
 </div>
