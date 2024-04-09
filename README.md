@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎵%20🐤🐤🐤🐤🐔%20%20-nl-&animation=twinkling&fontSize=50&desc=🐥🐣Can%20you%20be%20my%20friend?😘💔&descAlign=50&fontAlign=50)
- aa
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShsin9797%2Fhit-counter&count_bg=%230F467D&title_bg=%237089D4&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
