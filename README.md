@@ -3,7 +3,7 @@
 
 
 
-### 👋 Hi there 👋
+### 👋 Hi there ㅇㅅㅇa 👋
 
 - 🌱 I’m mainly learning python and java.
 
