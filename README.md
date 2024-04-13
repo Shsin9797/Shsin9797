@@ -3,7 +3,7 @@
 
 
 
-### 👋 Hi there ㅇㅅㅇa 👋
+### 👋 Hi there 👋
 
 - 🌱 I’m mainly learning python and java.
 
@@ -17,7 +17,7 @@
 
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
-😎 I've tried  ... 
+😎 Since 2022 ~  I've tried  ... 
 <br>(not much experienced on it yet😅)
 
 ### ✔️Cloud
