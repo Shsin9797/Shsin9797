@@ -13,10 +13,11 @@
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
-- I belong to ~
-- 🦁LIKELION Univ. 12th BE -2024
-- 🟡Kakao Tech Campus 2nd BE -2024
-
+- I've belonged to ~
+  - 🦁LIKELION Univ. 12th BE -2024
+  - 🟡Kakao Tech Campus 2nd BE -2024
+  - 🔵CNU SW Academy 2nd BE - 2023
+  
 <br>
 
 
