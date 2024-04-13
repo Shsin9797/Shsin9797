@@ -14,8 +14,8 @@
   https://popo-coding.tistory.com/
 
 - I belong to ~
-- 🦁LIKELION Univ. 12 BE -2024
-- 🟡Kakao Tech Campus 2 BE -2024
+- 🦁LIKELION Univ. 12th BE -2024
+- 🟡Kakao Tech Campus 2nd BE -2024
 
 <br>
 
