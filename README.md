@@ -13,6 +13,10 @@
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
 
+- I belong to ~
+- 🦁LIKELION Univ. 12 BE -2024
+- 🟡Kakao Tech Campus 2 BE -2024
+
 <br>
 
 
