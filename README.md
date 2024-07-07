@@ -1,15 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🎵%20🐤🐤🐤🐤🐔%20%20-nl-&animation=twinkling&fontSize=50&desc=🐥🐣Can%20you%20be%20my%20friend?😘💔&descAlign=50&fontAlign=50)
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShsin9797%2Fhit-counter&count_bg=%230F467D&title_bg=%237089D4&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
 ### 👋 Hi there 👋
 
-- 🌱 I’m mainly learning python and java language.
+- 🌱 I’m mainly using <img src="https://img.shields.io/badge/python-blue" alt="Python Version" height="25"> and <img src="https://img.shields.io/badge/java-yellow" alt="Java Version" height="25"> languages.
+
 - ☀️ 24_summer
-  - (Study) Spring Boot & Functional Programming & Stream
-  - (Clone Coding) KaKao Shopping Site
-  - (Team Project) Hackerton (2) - Running App based on gamification
+  - **Study**  |  Spring Boot & Functional Programming & Stream
+  - **Clone Coding**  |  Kakao Shopping Site
+  - **Team Project**  |  Hackathon (2) - Running App based on gamification
 
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
@@ -27,6 +29,8 @@
 <br>
 <div align=leftr><h2>🏅Certificates🏅 </h2></div>
 
+### 🥸Achieved
+
 - ✅ **SQLD** (24.06.21.)
 - ✅ **ADsP** (24.06.07.)
 - ✅ **Engineer Information Processing** (23.11.15.)
@@ -35,7 +39,8 @@
 - ✅ **Azure AI Fundamentals** (22.12.30.)
 - ✅ **COS Lv.1** (18.06.08.)
     - Coding Specialist / Advanced (Scratch, Korean)
-  
+      
+### 😵‍💫Preparing...
 - ☑ ADP (~ing)
 - ☑ SQLP (~ing)
 
@@ -51,6 +56,7 @@
 - 🥉 (23)
 - 🎖️ (23)
 
+<br>
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
 😎 Since 2022 ~  I've tried  ... 
 <br>(not much experienced on it yet😅)
