@@ -17,8 +17,22 @@
   - 🦁LIKELION Univ. 12th BE -2024
   - 🟡Kakao Tech Campus 2nd BE -2024
   - 🔵CNU SW Academy 2nd BE - 2023
+
   
 <br>
+<div align=leftr><h2>🏅Certificates🏅 </h2></div>
+
+- ✅ **SQLD** (24.06.21.)
+- ✅ **ADsP** (24.06.07.)
+- ✅ **Engineer Information Processing** (23.11.15.)
+- ✅ **Topcit Lv.3** (23.10.28.)
+    - Score :460 / 1000
+- ✅ **Azure AI Fundamentals** (22.12.30.)
+- ✅ **COS Lv.1** (18.06.08.)
+    - Coding Specialist / Advanced (Scratch, Korean)
+  
+- ☑ ADP (~ing)
+- ☑ SQLP (~ing)
 
 
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
@@ -28,7 +42,7 @@
 ### ✔️Cloud
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=social&logo=amazonaws&logoColor=orange"> 
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=social&logo=amazon&logoColor=orange"> 
   <img src="https://img.shields.io/badge/Naver_Cloud-4479A1?style=social&logo=naver&logoColor=green"> 
   <img src="https://img.shields.io/badge/Google_Cloud-4479A1?style=social&logo=google&logoColor=red"> 
   <img src="https://img.shields.io/badge/Microsoft_Azure-4479A1?style=social&logo=MicrosoftAzure&logoColor=blue"> 
