@@ -40,16 +40,24 @@
 <br>
 <h2></h2>
 
-- 🌬️ I've work for a software service based on
+- 🌬️ I've worked for a software service based on
   - <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
   - 🚙🔋 EV Charging Station
   - 🤖 AMR Robot
 
+<br>
+
+- 🫠 I'm kinda a night owl🦉 so that interested in a company that offers 🕝 flexible working hours or 🏠 telecommuting.
+- but... I should be an early bird 🐦
+- I'm thinking of a career as a developer in a financial institution, particularly in a 🏦bank
+
 <br> 
 
-- ⚡ This is my coding blog !!<br>
+- ⚡ This is my sleeping 😴💤 coding blog !!  <br>
   https://popo-coding.tistory.com/
 
+
+- ⚡ This is my Coding-Test score (sleeping...💫)
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
   
@@ -75,6 +83,7 @@
 
 <div align=leftr><h2>🏆Awards🏆 </h2></div>
 
+(will be updated later... 🤤)
 - 🥇 (24)
 - 🥇 (24)
 
