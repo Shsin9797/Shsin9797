@@ -35,7 +35,7 @@
 
   - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java /🦁 Spring Boot /🌲Python for Coding-Test
   - 💻**Clone Coding**  &nbsp;&nbsp;🦁 Todo List
-  - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon - Running App based on gamification
+  - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon (3) - Running App based on gamification
 
 <br>
 <h2></h2>
