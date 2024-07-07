@@ -27,13 +27,14 @@
 
   - ✏️**Study**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🟡Spring Boot  /  Functional Programming  / Stream
+🟡 Spring Boot  /  🟡 Functional Programming  / 🟡 Stream
   - 💻**Clone Coding**  &nbsp;&nbsp;🟡 Kakao Shopping Site
-  - 🧑‍🤝‍🧑**Team Project**  &nbsp; &nbsp;🦁Hackathon (2) - Running App based on gamification
+  - 🧑‍🤝‍🧑**Team Project**  &nbsp; &nbsp;🦁 Hackathon (2) - Running App based on gamification
 
 <h3> 24_spring 💮</h3>
 
-  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡Java / Python for Coding-Test
+  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java /🦁 Spring Boot /🌲Python for Coding-Test
+  - 💻**Clone Coding**  &nbsp;&nbsp;🦁 Todo List
   - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon - Running App based on gamification
 
 <br>
