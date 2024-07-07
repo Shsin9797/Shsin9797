@@ -33,7 +33,7 @@
 
 <h3> 24_spring 💮</h3>
 
-  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java /🦁 Spring Boot /🌲Python for Coding-Test
+  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java / 🦁 Spring Boot /🌲Python for Coding-Test
   - 💻**Clone Coding**  &nbsp;&nbsp;🦁 Todo List
   - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon (3) - Running App based on gamification
 
