@@ -12,26 +12,39 @@
 
 <br>
 
-- I've belonged to ~
+<h3> I've belonged to ~</h3>
+
   - 🦁LIKELION Univ. 12th BE -2024
   - 🟡Kakao Tech Campus 2nd BE -2024
   - 🔵CNU SW Academy 2nd BE - 2023
 
 <br>
 
-
-- 24_summer ☀️
-  - ✏️**Study**     Spring Boot  /  Functional Programming  / Stream
-  - 💻**Clone Coding**   Kakao Shopping Site
-  - 🧑‍🤝‍🧑**Team Project**   Hackathon (2) - Running App based on gamification
-- 24_spring 💮
-  - ✏️**Study**    Java / Python for Coding-Test
-  - 🧑‍🤝‍🧑**Team Project** Ideathon - Running App based on gamification
-
 <br>
 
+<h2> 🐉2024 OverView 🐉</h2>
+<h3> 24_summer ☀️</h3>
 
-- 🌬️ I've work for a service based on <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
+  - ✏️**Study**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🟡Spring Boot  /  Functional Programming  / Stream
+  - 💻**Clone Coding**  &nbsp;&nbsp;🟡 Kakao Shopping Site
+  - 🧑‍🤝‍🧑**Team Project**  &nbsp; &nbsp;🦁Hackathon (2) - Running App based on gamification
+
+<h3> 24_spring 💮</h3>
+
+  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡Java / Python for Coding-Test
+  - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon - Running App based on gamification
+
+<br>
+<h2></h2>
+
+- 🌬️ I've work for a software service based on
+  - <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
+  - 🚙🔋 EV Charging Station
+  - 🤖 AMR Robot
+
+<br> 
 
 - ⚡ This is my coding blog !!<br>
   https://popo-coding.tistory.com/
