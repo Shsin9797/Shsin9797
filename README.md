@@ -6,25 +6,38 @@
 
 ### 👋 Hi there 👋
 
-- 🌱 I’m mainly using <img src="https://img.shields.io/badge/python-blue" alt="Python Version" height="25"> and <img src="https://img.shields.io/badge/java-yellow" alt="Java Version" height="25"> languages.
+- 🌱 I’m mainly using <img src="https://img.shields.io/badge/java-DukeBlue?style=flat&logo=openjdk&logoColor=white" alt="Java Version" height="22">
+ and <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white" alt="Python Version" height="22">
+ languages.
 
-- ☀️ 24_summer
-  - **Study**  |  Spring Boot & Functional Programming & Stream
-  - **Clone Coding**  |  Kakao Shopping Site
-  - **Team Project**  |  Hackathon (2) - Running App based on gamification
-
-
-  [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
-
-- 🌬️ I work for a service based on kubernetes.
-- ⚡ This is my coding blog !!<br>
-  https://popo-coding.tistory.com/
+<br>
 
 - I've belonged to ~
   - 🦁LIKELION Univ. 12th BE -2024
   - 🟡Kakao Tech Campus 2nd BE -2024
   - 🔵CNU SW Academy 2nd BE - 2023
 
+<br>
+
+
+- 24_summer ☀️
+  - ✏️**Study**     Spring Boot  /  Functional Programming  / Stream
+  - 💻**Clone Coding**   Kakao Shopping Site
+  - 🧑‍🤝‍🧑**Team Project**   Hackathon (2) - Running App based on gamification
+- 24_spring 💮
+  - ✏️**Study**    Java / Python for Coding-Test
+  - 🧑‍🤝‍🧑**Team Project** Ideathon - Running App based on gamification
+
+<br>
+
+
+- 🌬️ I've work for a service based on <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
+
+- ⚡ This is my coding blog !!<br>
+  https://popo-coding.tistory.com/
+
+
+  [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
   
 <br>
 <div align=leftr><h2>🏅Certificates🏅 </h2></div>
