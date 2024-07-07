@@ -5,7 +5,12 @@
 
 ### 👋 Hi there 👋
 
-- 🌱 I’m mainly learning python and java.
+- 🌱 I’m mainly learning python and java language.
+- ☀️ 24_summer
+  - (Study) Spring Boot & Functional Programming & Stream
+  - (Clone Coding) KaKao Shopping Site
+  - (Team Project) Hackerton (2) - Running App based on gamification
+
 
   [![코드트리|실력진단-aaa8141](https://banner.codetree.ai/v1/banner/aaa8141)](https://www.codetree.ai/profiles/aaa8141)
 
