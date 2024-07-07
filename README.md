@@ -35,6 +35,16 @@
 - ☑ SQLP (~ing)
 
 <br>
+
+<div align=leftr><h2>🏆Awards🏆 </h2></div>
+- 🥇 (24)
+- 🥇 (24)
+
+- 🥉 (23)
+- 🥉 (23)
+- 🥉 (23)
+- 🎖️ (23)
+
 <div align=leftr><h2>🍼Stacks🍼 </h2></div>
 😎 Since 2022 ~  I've tried  ... 
 <br>(not much experienced on it yet😅)
