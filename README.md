@@ -72,6 +72,7 @@
 
 <br>
 <h2></h2>
+<br>
 
 - 🫠 I'm kinda a night owl🦉 so that interested in a company that offers 🕝 flexible working hours or 🏠 telecommuting.
 - but... I should be an early bird 🐦
