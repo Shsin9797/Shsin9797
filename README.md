@@ -12,11 +12,19 @@
 
 <br>
 
-<h3> I've belonged to ~</h3>
+<h3>:accessibility: I've belonged to ~</h3>
 
   - 🦁LIKELION Univ. 12th BE -2024
   - 🟡Kakao Tech Campus 2nd BE -2024
   - 🔵CNU SW Academy 2nd BE - 2023
+
+<br>
+
+<h3> 🌬️ I've worked for a software service based on </h3>
+
+  - 🥝 <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
+  - 🚙🔋 EV Charging Station
+  - 🤖 AMR Robot
 
 <br>
 
@@ -64,13 +72,6 @@
 
 <br>
 <h2></h2>
-
-- 🌬️ I've worked for a software service based on
-  - 🥝 <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
-  - 🚙🔋 EV Charging Station
-  - 🤖 AMR Robot
-
-<br>
 
 - 🫠 I'm kinda a night owl🦉 so that interested in a company that offers 🕝 flexible working hours or 🏠 telecommuting.
 - but... I should be an early bird 🐦
