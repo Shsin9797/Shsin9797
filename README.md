@@ -20,7 +20,9 @@
 
 <br>
 
-<h3> 🌬️ I've worked for a software service based on </h3>
+<h3> 🌬️ I've worked ~  </h3>
+
+ for a software service based on <br>
 
   - 🥝 <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
   - 🚙🔋 EV Charging Station
