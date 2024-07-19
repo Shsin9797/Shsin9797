@@ -26,22 +26,47 @@
 <h3> 24_summer ☀️</h3>
 
   - ✏️**Study**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🟡 Spring Boot  /  🟡 Functional Programming  / 🟡 Stream
-  - 💻**Clone Coding**  &nbsp;&nbsp;🟡 Kakao Shopping Site
-  - 🧑‍🤝‍🧑**Team Project**  &nbsp; &nbsp;🦁 Hackathon (2) - Running App based on gamification
+  - 💻**Clone Coding**  &nbsp;&nbsp;&nbsp;🟡 Kakao Shopping Site
+  - 🧑‍🤝‍🧑**Team Project**  &nbsp;&nbsp; &nbsp;🦁 Hackathon (2) - Running App based on gamification
+  - 🏢**Work**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🧑‍💼**REGULAR**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📝 Planning products 📝 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L 🚙🔋 EV Charging Station Operations System / 🖥️ Service webpage / ™️ trademark rights®️
 
 <h3> 24_spring 💮</h3>
 
-  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java / 🦁 Spring Boot /🌲Python for Coding-Test
-  - 💻**Clone Coding**  &nbsp;&nbsp;🦁 Todo List
-  - 🧑‍🤝‍🧑**Team Project** &nbsp; &nbsp;🦁 Ideathon (3) - Running App based on gamification
+  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;🟡 Java / 🦁 Spring Boot /🌲Python for Coding-Test
+  - 💻**Clone Coding**  &nbsp;&nbsp;&nbsp;🦁 Todo List
+  - 🧑‍🤝‍🧑**Team Project** &nbsp;&nbsp; &nbsp;🦁 Ideathon (3) - Running App based on gamification
+  - 🏢**Work** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🐤**PROBATION** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📝 Planning products 📝 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L 🚙🔋 EV Charging Station Operations System / 🤖 AMR autonomous driving robot  / 🖥️ Service webpage 
+
+<h3> 24_winter ☃️</h3>
+
+  - ✏️**Study**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;🟠 AWS / 🔵 Kubernetes / 🌲Python for Coding-Test
+  - 🏢**Work**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🆕**INTERN**  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📝 Planning products 📝<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L 🥝 Kubernetes based project management software / 🖥️ Company homepage 
 
 <br>
 <h2></h2>
 
 - 🌬️ I've worked for a software service based on
-  - <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
+  - 🥝 <img src="https://img.shields.io/badge/kubernetes-(Pending)-yellow?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Status" height="22">
   - 🚙🔋 EV Charging Station
   - 🤖 AMR Robot
 
