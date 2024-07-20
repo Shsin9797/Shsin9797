@@ -9,6 +9,7 @@
 - 🌱 I’m mainly using <img src="https://img.shields.io/badge/java-DukeBlue?style=flat&logo=openjdk&logoColor=white" alt="Java Version" height="22">
  and <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white" alt="Python Version" height="22">
  languages.
+- 🎓 expected to graduate with a Bachelor of Engineering in February 2025.
 
 <br>
 
