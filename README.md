@@ -59,7 +59,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📝 Planning products 📝 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L 🚙🔋 EV Charging Station Operations System / 🤖 AMR autonomous driving robot  / 🖥️ Service webpage 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L 🚙🔋 EV Charging Station Operations System / 🤖 AMR autonomous driving robot  / 📄 Brochure
 
 <h3> 24_winter ☃️</h3>
 
